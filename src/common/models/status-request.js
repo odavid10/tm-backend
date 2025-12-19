@@ -1,0 +1,9 @@
+const STATUS_REQUEST = {
+  ERROR: "ERROR",
+  SUCCESS: "SUCCESS",
+  UNAUTHORIZED: "UNAUTHORIZED",
+};
+
+module.exports = {
+  STATUS_REQUEST,
+};
